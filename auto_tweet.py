@@ -69,16 +69,16 @@ status.append("Yeah, I'm still worthy....!!!!😅 \n\n#programming #coding #prog
 status.append("#Android_Studio things...!! 😅😂🤣 \n\nHave you ever undergone this situation?? \n\n#programming #coding #programmer #developer #javascript #technology #code #html #python #java #tech #css #webdesign #software #linux #computer #php #codinglife #programmers #android #design #hacking")
 status.append("I'm not did it..!! Only my code do that..😅😂🤣\n\n#programming #coding #programmer #developer #javascript #technology #code #html #python #java #tech #css #webdesign #software #linux #computer #php #codinglife #programmers #android #design #hacking")
 
-images.append("1LKS1CGjlvdHjGv_3gLGmF-r8Hqig1eU4")
-images.append("1CQ8hR-4xw0c0pnnp8Sq7CKmwNzvk3waO")
-images.append("1dX7kleTH0Zam4ix1gEw2hm-3QQnjr5pR")
-images.append("1itisiL_T_zkmJf9hpYrZiZVnXXC0g4bW")
-images.append("1UnCqgg-war0okSLM6fqsWlScmP787ADw")
-images.append("1LlhzgtWvPMgQQm8tsPTJbNCUPIDJuhIL")	
-images.append("1ptIpLJzMD1FzO8DS5Qaup_NfJhYb9JZ_")
-images.append("1E40yMIbhipiFmGo4SAQEzf8aUfZPSqzx")
-images.append("1JfXwgoX0bur59irxUzFWutTmncyGZlQn")
-images.append("1iwLfVtj0KoHmcM_NQTp3JLuAmflvQsq7")
+images.append("1LKS1CGjlvdHjGv_3gLGmF-r8Hqasdig1eU4")
+images.append("1CQ8hR-4xwasdd0c0pnnp8Sq7CKmwNzvk3wa")
+images.append("1dX7kleTH0Zam4ix1gEwjgh2hm-3QQnjr5pR")
+images.append("1itisiL_T_zkmJf9hdasdpYrZiZVnXXC0g4b")
+images.append("1UnCqgg-adwar0okSLM6sddfqsWlScmP787A")
+images.append("1LlhzgasdstWvPMgQQm8tsPTJbNCUPIDJuhI")	
+images.append("1ptasddIpLJzMD1FzO8DS5Qaup_NfJhYb9JZ")
+images.append("1E40yMIbhipiFmGo4SAasddasQEzf8aUfZPS")
+images.append("1JfXwgoX0bur59irxUzFWasddasutTmncyGZ")
+images.append("1iwLfVtj0KoasddHmcM_NasdTp3JLuAmflvQ")
 
 
 #looping to tweet at particular interval
